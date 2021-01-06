@@ -1,0 +1,4 @@
+---
+ applications:
+ - name: jp-mongodb-2021
+   memory:  512M
